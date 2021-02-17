@@ -169,15 +169,4 @@ The screen will appear as follows after you select the button:
  <figure><img src="https://oracle.github.io/learning-library/oci-library/oci-hol/deploying-oci-streaming-service/deploying-oci-streaming-service/images/RESERVEDIP_HOL0018.PNG" alt=""></figure></p></li>
 </ol></section>
 
-<section><div name="Acknowledgements" data-unique="Acknowledgements"></div><h2 id="acknowledgements" class="plus" tabindex="0">Acknowledgements</h2><p style="display:none;"><em>Congratulations! You have successfully completed the lab.</em></p><ul style="display:none;">
-<li><strong>Author</strong> - Flavio Pereira, Larry Beausoleil</li>
-<li><strong>Adapted by</strong> -  Yaisah Granillo, Cloud Solution Engineer</li>
-<li><strong>Contributors</strong> - Kamryn Vinson, QA Engineer Lead Intern | Arabella Yao, Product Manager Intern, DB Product Management</li>
-<li><strong>Last Updated By/Date</strong> - Tom McGinn, August 2020</li>
-<li><strong>Valid through</strong> - August 2021</li>
-</ul></section>
-
-
-<section><div name="NeedHelp?" data-unique="NeedHelp?"></div><h2 id="needhelp" class="plus" tabindex="0">Need Help?</h2><p style="display:none;">Please submit feedback or ask for help using our <a href="https://community.oracle.com/tech/developers/categories/oracle-cloud-infrastructure-fundamentals" target="_blank">LiveLabs Support Forum</a>. Please click the <strong>Log In</strong> button and login using your Oracle Account. Click the <strong>Ask A Question</strong> button to the left to start a <em>New Discussion</em> or <em>Ask a Question</em>.  Please include your workshop name and lab name.  You can also include screenshots and attach files.  Engage directly with the author of the workshop.</p><p style="display:none;">If you do not have an Oracle Account, click <a href="https://profile.oracle.com/myprofile/account/create-account.jspx" target="_blank">here</a> to create one.</p></section>
-
 </article>
