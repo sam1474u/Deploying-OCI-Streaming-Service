@@ -86,7 +86,6 @@ The screen will appear as follows after you select the button:
 <p><figure><img src="https://raw.githubusercontent.com/oracle/learning-library/master/common/labs/generate-ssh-key-cloud-shell/images/cat.png" alt=""></figure></p></li>
 <li><p>Copy the contents of the public key and save it somewhere for later. When pasting the key into the compute instance in future labs, make sure that you remove any hard returns that may have been added when copying. <em>The .pub key should be one line.</em></p>
 <p><figure><img src="https://raw.githubusercontent.com/oracle/learning-library/master/common/labs/generate-ssh-key-cloud-shell/images/copy-cat.png" alt=""></figure></p></li>
-</ol><p style="">You may now <a href="#next">proceed to the next lab</a>.</p></section>
 
 
 
